@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Kuntson and i,m 10
+- 👋 Hi, I’m Joseph Kuntson and my birth year is 2012
 - 👀 I’m interested in websites coding and bugs
 - 🌱 I’m currently learning C++ RUST JAVA PYTHON
 - 💞️ I’m looking to collaborate on ...
